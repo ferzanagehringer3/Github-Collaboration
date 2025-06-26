@@ -86,7 +86,7 @@ You can do this by
 
 **Partner A**:
 
--Open the VS Code command menu (same as for git clone) and select `git checkout` our_mission
+- Open the VS Code command menu (same as for git clone) and select `git checkout` our_mission
 
 This command creates a new branch named our_mission and switches you to it.
 
